@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Young Barnet Foundation</string>
+		<key>locationName</key>
+		<string>Go on..It will be worth it!</string>
+		<key>latitude</key>
+		<real>51.6026197</real>
+		<key>longitude</key>
+		<real>-0.2635857000000215</real>
+		<key>thumbnailName</key>
+		<string>yb</string>
+		<key>whyVisit</key>
+		<string>The Young Barnet Foundation (YBF) is a membership movement set up to help grow activities and services for our children and young people.  We believe the children and young people need safe space to grow and develop into resilient adults.  For this, all children and young people need opportunities for learning and fun, beyond family and formal education, building strong trusted relationships with adults and their peers; leading to broadened networks, increased confidence and valuable life skills. </string>
+		<key>wikipediaLink</key>
+		<string>https://www.youngbarnetfoundation.org.uk</string>
+		<key>number</key>
+		<string>020 3621 6090</string>
+		<key>email</key>
+		<string>members@youngbarnetfoundation.org.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>CAMHS</string>
+		<key>locationName</key>
+		<string>Mental Health NHS Trust</string>
+		<key>latitude</key>
+		<real>51.5806483</real>
+		<key>longitude</key>
+		<real>-0.08843239999998787</real>
+		<key>thumbnailName</key>
+		<string>camhs</string>
+		<key>whyVisit</key>
+		<string>Get information about different types of mental health conditions. We&apos;ve collected some of the best resources so you can learn more about signs, symptoms, and how to manage with a diagnosis.
+
+This includes conditions such as:
+Anxiety
+Depression
+Self-harm</string>
+		<key>wikipediaLink</key>
+		<string>http://www.behcamhs.nhs.uk</string>
+		<key>number</key>
+		<string>020 8702 3000</string>
+		<key>email</key>
+		<string>members@youngbarnetfoundation.org.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Rephael House Counselling Centre </string>
+		<key>locationName</key>
+		<string></string>
+		<key>latitude</key>
+		<real>51.64968</real>
+		<key>longitude</key>
+		<real>-0.1768283999999767</real>
+		<key>thumbnailName</key>
+		<string>rhcc</string>
+		<key>whyVisit</key>
+		<string>Here at Rephael House we offer in-house and external counselling services, enabling us to provide support to a wide range of the community.
+ 
+All services are delivered by experienced counsellors, chosen for their skills within their specialist area.</string>
+		<key>wikipediaLink</key>
+		<string>https://www.rephaelhouse.org.uk</string>
+		<key>number</key>
+		<string>020 8440 9144</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Community Focus - ARTiculate</string>
+		<key>locationName</key>
+		<string>Multi-arts centre based in Barnet</string>
+		<key>latitude</key>
+		<real>51.6193478</real>
+		<key>longitude</key>
+		<real>-0.1619106000000556</real>
+		<key>thumbnailName</key>
+		<string>cm</string>
+		<key>whyVisit</key>
+		<string>Community Focus is an inclusive multi-arts centre that runs a variety of arts classes and projects for people of all abilities. Many members are people with disabilities who wish to challenge themselves with new creative activities. Classes include: art, ceramics, computing, creative writing, dance, drama, textiles, photography art, painting and printing, drumming - all taught by professional artists and tutors, and supported by volunteers. The centre also delivers some free projects and outreach work throughout the year and organises trips to theatres and exhibitions.</string>
+		<key>wikipediaLink</key>
+		<string>https://www.communityfocus.co.uk</string>
+		<key>number</key>
+		<string>020 3743 2326</string>
+		<key>email</key>
+		<string>admin@communityfocus.co.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>locationName</key>
+		<string>Transorming young lives</string>
+		<key>latitude</key>
+		<real>51.5846199</real>
+		<key>longitude</key>
+		<real>-0.2299384000000373</real>
+		<key>name</key>
+		<string>Terapia</string>
+		<key>thumbnailName</key>
+		<string>terapia</string>
+		<key>whyVisit</key>
+		<string>Terapia is a Barnet charity that trains specialist psychotherapists to work with Young People and Children. We provide counselling services within schools and other voluntary sector organisations and we are committed to extending access to wellbeing support for Young People and Children across the borough.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.terapia.co.uk/</string>
+		<key>number</key>
+		<string>020 8201 6101</string>
+		<key>email</key>
+		<string>tracey@terapia.co.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>locationName</key>
+		<string>Change, grow, live</string>
+		<key>latitude</key>
+		<real>51.540302</real>
+		<key>longitude</key>
+		<real>-0.2549040999999761</real>
+		<key>name</key>
+		<string>CGL</string>
+		<key>thumbnailName</key>
+		<string>cgl</string>
+		<key>whyVisit</key>
+		<string>CRL works with individuals, families and communities across England and Wales that are affected by drugs, alcohol, crime, homelessness, domestic abuse, and antisocial behaviour. Our projects, delivered in communities and prisons, encourage, and empower people to take control of their lives and motivate them to find solutions to their problems.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.changegrowlive.org/</string>
+		<key>number</key>
+		<string>020 7833 3440</string>
+		<key>email</key>
+		<string>Becca.Ljungberg@cri.org.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Art against knives</string>
+		<key>locationName</key>
+		<string>Young, award-winning charity</string>
+		<key>latitude</key>
+		<real>51.5195806</real>
+		<key>longitude</key>
+		<real>-0.1325695</real>
+		<key>thumbnailName</key>
+		<string>aak</string>
+		<key>whyVisit</key>
+		<string>ART AGAINST KNIVES provides early intervention support to strengthen young people’s capabilities and specialist risk management support for those who face multiple risks. We design projects WITH, not FOR young people, delivering opportunities that are on trend. Our IN OUR HANDS programme delivers free community Nail Bars for young women; VALES NAILS, DOLLIS DOLLS and an accredited training programme. Our Creative Collaborations programme delivers THE LAB, a weekly pop-up music studio. All our programmes offer creative training and 1:1 mentoring delivered by our highly specialised team.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.artagainstknives.com/</string>
+		<key>number</key>
+		<string>02077581758</string>
+		<key>email</key>
+		<string>hello@artagainstknives.com</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Mind in Barnet</string>
+		<key>locationName</key>
+		<string>For better mental health</string>
+		<key>latitude</key>
+		<real>51.6101681</real>
+		<key>longitude</key>
+		<real>-0.1805683</real>
+		<key>thumbnailName</key>
+		<string>barnet</string>
+		<key>whyVisit</key>
+		<string>Mind in Barnet is a mental health charity affiliated to National Mind. We provide services primarily to Barnet residents including Advocacy and Counselling. ECLIPSE - we promote Mental Health and Wellbeing supporting people to live fulfilling lives. Clients must be residents of the Borough of Barnet or registered with a Barnet CCG GP or be employed in Barnet. Clients must be 16 years +. We encourage clients to self-refer but we accept referrals from family and mental health professionals.</string>
+		<key>wikipediaLink</key>
+		<string>http://mindinbarnet.org.uk/</string>
+		<key>number</key>
+		<string>020 8343 5700</string>
+		<key>email</key>
+		<string>admin@mindinbarnet.org.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>locationName</key>
+		<string>Based in North London</string>
+		<key>latitude</key>
+		<real>51.61700940000001</real>
+		<key>longitude</key>
+		<real>-0.1810685000000376</real>
+		<key>name</key>
+		<string>Rainbow Head</string>
+		<key>thumbnailName</key>
+		<string>rh</string>
+		<key>whyVisit</key>
+		<string>Rainbow Head is a mental health and queer focused organisation, based in North London and primarily for young people under 25. Rainbow Head aims to create safe, supportive, and happy spaces for young people aged 13-25. We also aim to bridge the gap between minority and mainstream communities by raising awareness and increasing visibility, inclusion &amp; equality for LGBT+ young people and those with mental health difficulties.</string>
+		<key>wikipediaLink</key>
+		<string>http://rainbowheadyouth.co.uk</string>
+		<key>number</key>
+		<string>07824328894</string>
+		<key>email</key>
+		<string>contact@rainbowheadyouth.co.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Eclipse</string>
+		<key>locationName</key>
+		<string>Mental health and wellbeing</string>
+		<key>latitude</key>
+		<integer>0</integer>
+		<key>longitude</key>
+		<integer>0</integer>
+		<key>thumbnailName</key>
+		<string>eclipse</string>
+		<key>whyVisit</key>
+		<string>We promote mental Health &amp; Wellbeing supporting people to live fulfilling lives and become active participants in their community. For all ages including children and teenagers.</string>
+		<key>wikipediaLink</key>
+		<string>https://www.barnet.gov.uk/citizen-home/directories/Directories?_pecid=373ac375-9115-4d18-8a58-ce6098691e0a&amp;directoryId=56dd905984ae8d0bbada72f1&amp;directoryRecordId=56dd90cc84ae8d0bbada72fc&amp;view=true</string>
+		<key>number</key>
+		<string>020 3092 4071</string>
+		<key>email</key>
+		<string>info@eclipsebarnet.org.uk</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Community souls</string>
+		<key>locationName</key>
+		<string>Mentoring programme</string>
+		<key>latitude</key>
+		<integer>0</integer>
+		<key>longitude</key>
+		<integer>0</integer>
+		<key>thumbnailName</key>
+		<string>cs</string>
+		<key>whyVisit</key>
+		<string>Community Souls mentoring programme is designed to improve the well-being and intellect of a young person. Through 1:1 and group sessions, we aim to develop their social, personal, and educational abilities. Our mentor’s role within the programme is to work with the young person to set personal goals and support them in achieving them. They work as a team to record and monitor the progression and achievements.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.communitysouls.co.uk/</string>
+		<key>number</key>
+		<string>/</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>9</integer>
+		<key>name</key>
+		<string>Barnet Hospital </string>
+		<key>locationName</key>
+		<string>Accidents &amp; Emergencies</string>
+		<key>latitude</key>
+		<real>51.651361</real>
+		<key>longitude</key>
+		<real>-0.215809</real>
+		<key>thumbnailName</key>
+		<string>BarnetHospital</string>
+		<key>whyVisit</key>
+		<string>Monday
+•	Open 24 hours
+Tuesday
+•	Open 24 hours
+Wednesday
+•	Open 24 hours
+Thursday
+•	Open 24 hours
+Friday
+•	Open 24 hours
+Saturday
+•	Open 24 hours
+Sunday
+•	Open 24 hours</string>
+		<key>wikipediaLink</key>
+		<string>http://www.nhs.uk/Services/hospitals/Services/DefaultView.aspx?id=99584</string>
+		<key>number</key>
+		<string>020 8216 4600</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Finchley Memorial Hospital</string>
+		<key>locationName</key>
+		<string>Walk in centre</string>
+		<key>latitude</key>
+		<real>51.6072243</real>
+		<key>longitude</key>
+		<real>-0.1792688000000453</real>
+		<key>thumbnailName</key>
+		<string>FinchleyMemorialHospital</string>
+		<key>whyVisit</key>
+		<string>Children&apos;s speech and language therapy: 020 8349 7500
+Children&apos;s orthopaedics: 020 8349 7500
+Falls clinic: 020 8349 7500
+Marjory Warren Ward (includes Summerlee and Dickens Wings): 020 8349 7422 (F: 020 8349 7427)
+Outpatients Department (OPD): 020 8349 7500
+Phlebotomy: 020 83497460
+Podiatry: 020 8349 7500
+Therapy service: 020 8349 7500</string>
+		<key>wikipediaLink</key>
+		<string>http://www.clch.nhs.uk</string>
+		<key>number</key>
+		<string>020 8349 7500</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Cricklewood GP Health Centre</string>
+		<key>locationName</key>
+		<string>Walk in centre</string>
+		<key>latitude</key>
+		<real>51.557492</real>
+		<key>longitude</key>
+		<real>-0.215293</real>
+		<key>thumbnailName</key>
+		<string>cricklewood</string>
+		<key>whyVisit</key>
+		<string>We are commissioned by NHS Barnet to provide a health centre that can be used by both registered and unregistered patients. We are open 8am-8pm, seven days a week including all Bank Holidays. The last walk in appointment on any day is at 7pm, however if there is unusually high demand for our service on any particular day we may close the appointment book earlier. Please call ahead if you&apos;d like to find out if appointments are still available.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.cricklewoodgphealthcentre.nhs.uk</string>
+		<key>number</key>
+		<string>0300 033 4335</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Chase Farm Hospital</string>
+		<key>locationName</key>
+		<string>Urgent care centre</string>
+		<key>latitude</key>
+		<real>51.666257</real>
+		<key>longitude</key>
+		<real>-0.104102</real>
+		<key>thumbnailName</key>
+		<string>chaseFarmHospital</string>
+		<key>whyVisit</key>
+		<string>Religious space for contemplation and spiritual guidance within an NHS hospital, with some services</string>
+		<key>wikipediaLink</key>
+		<string>https://www.royalfree.nhs.uk</string>
+		<key>number</key>
+		<string>020 8375 2999</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Northwick Park Hospital</string>
+		<key>locationName</key>
+		<string>Accidents &amp; Emergencies</string>
+		<key>latitude</key>
+		<real>51.5751534</real>
+		<key>longitude</key>
+		<real>-0.3217068</real>
+		<key>thumbnailName</key>
+		<string>northwick</string>
+		<key>whyVisit</key>
+		<string>Monday
+•	Open 24 hours
+Tuesday
+•	Open 24 hours
+Wednesday
+•	Open 24 hours
+Thursday
+•	Open 24 hours
+Friday
+•	Open 24 hours
+Saturday
+•	Open 24 hours
+Sunday
+•	Open 24 hours</string>
+		<key>wikipediaLink</key>
+		<string>http://www.lnwh.nhs.uk</string>
+		<key>number</key>
+		<string>020 8864 3232</string>
+		<key>email</key>
+		<string>/</string>
+	</dict>
+</array>
+</plist>

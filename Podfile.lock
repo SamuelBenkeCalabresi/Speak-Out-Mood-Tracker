@@ -1,0 +1,15 @@
+PODS:
+  - CorePlot (2.2)
+  - JTAppleCalendar (7.0.2)
+
+DEPENDENCIES:
+  - CorePlot (~> 2.2)
+  - JTAppleCalendar (~> 7.0)
+
+SPEC CHECKSUMS:
+  CorePlot: cbe0c6e14220705e32e06a89c7d6a5a908b7d7d8
+  JTAppleCalendar: c14685634064ef67a68209548ff3443208af48a3
+
+PODFILE CHECKSUM: fe993aaaec0030654bc3f57e063ae4d840b1a283
+
+COCOAPODS: 1.2.1

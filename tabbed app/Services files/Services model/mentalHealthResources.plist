@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>locationName</key>
+		<string>Free, safe and anonymous</string>
+		<key>name</key>
+		<string>Kooth</string>
+		<key>thumbnailName</key>
+		<string>kooth</string>
+		<key>whyVisit</key>
+		<string>•	“Free, safe and anonymous online support for young people”.                   
+•	Monday to Friday 12pm-10pm.
+•	Saturday + Sunday 6pm-10pm.
+•	There to help with: being bullied, being physically or emotionally abused, not feeling accepted, low self-esteem, being stressed, feeling anxious, confused about sexuality, feeling depressed or alone. </string>
+		<key>wikipediaLink</key>
+		<string>https://kooth.com/</string>
+		<key>number</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>2</integer>
+		<key>locationName</key>
+		<string>Online, on the phone, anytime</string>
+		<key>name</key>
+		<string>Childline</string>
+		<key>thumbnailName</key>
+		<string>childline</string>
+		<key>whyVisit</key>
+		<string>•	1-2-1 online counsellor chat – BSL sign video option for counsellor chat (Monday to Friday, 9am to 6pm)
+•	Under 19’s
+•	Online and over the phone – 24/7, 365 days a year
+•	Calls are free and the number will not show up on the phone bill
+</string>
+		<key>wikipediaLink</key>
+		<string>https://childline.org.uk/</string>
+		<key>number</key>
+		<string>08001111 </string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>3</integer>
+		<key>locationName</key>
+		<string>I found a way to be myself</string>
+		<key>name</key>
+		<string>Samaritans</string>
+		<key>thumbnailName</key>
+		<string>samaritans</string>
+		<key>whyVisit</key>
+		<string>•	Any age
+•	Helpline for anyone to call – confidential
+•	Online and on the phone – 24/7 – 365 days a year
+•	Free to call 
+</string>
+		<key>wikipediaLink</key>
+		<string>https://www.samaritans.org/</string>
+		<key>number</key>
+		<string>0208 961 6181</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>4</integer>
+		<key>locationName</key>
+		<string>Essential support for under 25s</string>
+		<key>name</key>
+		<string>The Mix</string>
+		<key>thumbnailName</key>
+		<string>themix</string>
+		<key>whyVisit</key>
+		<string>•	Offers essential support for under 25s with 1-2-1 chats, group chats, and discussion boards. 
+•	Also offers many resources for self-help, other guides, and local services location. 
+</string>
+		<key>wikipediaLink</key>
+		<string>https://themix.org.uk/</string>
+		<key>number</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>8</integer>
+		<key>name</key>
+		<string>Young Minds</string>
+		<key>locationName</key>
+		<string>The voice of young people&apos;smental health and wellbeing</string>
+		<key>thumbnailName</key>
+		<string>ym</string>
+		<key>whyVisit</key>
+		<string>YoungMinds is the UK’s leading charity championing the wellbeing and mental health of young people.
+
+We exist so that young people have the strongest possible voice in improving their mental health. We strive to make sure everything, from Government policy to practice in schools and services, is driven by young people’s experiences and aspirations.
+
+We support parents to help their children through difficult times, we equip professionals to provide the best possible support to the young people that they work with, and we empower young people to change their world.</string>
+		<key>wikipediaLink</key>
+		<string>https://youngminds.org.uk</string>
+		<key>number</key>
+		<string>0808 802 5544</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>9</integer>
+		<key>name</key>
+		<string>beat</string>
+		<key>locationName</key>
+		<string>Beating eating disorders</string>
+		<key>thumbnailName</key>
+		<string>beat</string>
+		<key>whyVisit</key>
+		<string>Eating disorders are widely misunderstood and stigmatised illnesses, so we work to change this at every level. We campaign for positive change for people who are suffering so that they can get the help they need and deserve as quickly as possible, because we know that the faster they get treatment, the greater their chance of full recovery. We run and assist with research to learn more about what causes eating disorders and how best to treat them.</string>
+		<key>wikipediaLink</key>
+		<string>https://www.b-eat.co.uk</string>
+		<key>number</key>
+		<string>0808 801 0711</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Futureversity</string>
+		<key>locationName</key>
+		<string>where things can happen</string>
+		<key>thumbnailName</key>
+		<string>fv</string>
+		<key>whyVisit</key>
+		<string>Futureversity believes all young people have the potential to be extraordinary. We provide free courses and activities for 11-25 year olds to help them develop the skills and self-belief they need to make the most of their lives. Our programmes have been proven to raise aspirations, reduce youth crime, break down racial tensions and get unemployed young people off benefits and into work.
+
+Previously known as Tower Hamlets Summer University, we changed our name in 2010 to reflect our growing network outside the borough. Since our inception in 1995, we have worked with over 160,000 young people all across London.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.futureversity.org</string>
+		<key>number</key>
+		<string>020 7247 7900</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>11</integer>
+		<key>name</key>
+		<string>Charlie Waller Memorial Trust</string>
+		<key>locationName</key>
+		<string>Depression - let&apos;s get talking</string>
+		<key>thumbnailName</key>
+		<string>cwmt</string>
+		<key>whyVisit</key>
+		<string>Our vision is of a world where people understand and talk openly about depression, where young people know how to maintain wellbeing, and where the most appropriate treatment is available to everyone who needs it.
+ 
+The Trust was set up in 1997 in memory of Charlie Waller, a young man who took his own life whilst suffering from depression. Shortly after his death, his family founded the Trust in order to educate young people on the importance of staying mentally well and how to do so.</string>
+		<key>wikipediaLink</key>
+		<string>https://www.cwmt.org.uk</string>
+		<key>number</key>
+		<string>01635 869754</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>5</integer>
+		<key>locationName</key>
+		<string>Connect with caring people</string>
+		<key>name</key>
+		<string>7 Cups of Tea</string>
+		<key>thumbnailName</key>
+		<string>7cups</string>
+		<key>whyVisit</key>
+		<string>•	Basic active listening service, self-help guides and some chat rooms do not require sign-up
+•	Offers a free 24/7 active listening service where you can talk to someone confidentially about anything. Also, offers paid therapy services, self-help guides, guest, and member only chat rooms which are specific to certain issues and are moderated.</string>
+		<key>wikipediaLink</key>
+		<string>https://7cups.com</string>
+		<key>number</key>
+		<string>/</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>6</integer>
+		<key>locationName</key>
+		<string>Prevention of young suicide</string>
+		<key>name</key>
+		<string>PAPYRUS</string>
+		<key>thumbnailName</key>
+		<string>papyrus</string>
+		<key>whyVisit</key>
+		<string>•	Voluntary organisation supporting teenagers and young adults up to the age of 35 who are feeling suicidal
+•	Opening hours:
+- Monday to Friday: 10am – 10pm.
+- Weekends: 2pm – 10pm.</string>
+		<key>wikipediaLink</key>
+		<string>https://papyrus-uk.org</string>
+		<key>number</key>
+		<string>0800 068 41 41</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>7</integer>
+		<key>locationName</key>
+		<string>Campaign against living miserably</string>
+		<key>name</key>
+		<string>CALM</string>
+		<key>thumbnailName</key>
+		<string>calm</string>
+		<key>whyVisit</key>
+		<string>•	Calls are free from landlines, pay phones and all mobiles; confidential and anonymous and will not show up on the phone bill
+•	Opening hours: 5pm – midnight, 7 days a week
+</string>
+		<key>wikipediaLink</key>
+		<string>https://www.thecalmzone.net/</string>
+		<key>number</key>
+		<string>0808 802 58 58</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>12</integer>
+		<key>locationName</key>
+		<string>NHS go official application</string>
+		<key>name</key>
+		<string>NHS go</string>
+		<key>thumbnailName</key>
+		<string>go</string>
+		<key>whyVisit</key>
+		<string>NHS Go enables young people to have greater access to medical information. Users can read health related articles, search for nearby services, and find out more information regarding their rights as an NHS customer.
+
+Whilst the health information contained within the app is universally evidence-based, certain features, such as the NHS services finder, may only work within the UK.</string>
+		<key>wikipediaLink</key>
+		<string>http://www.nhsgo.uk</string>
+		<key>number</key>
+		<string>/</string>
+	</dict>
+</array>
+</plist>
